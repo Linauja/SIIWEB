@@ -1,3 +1,18 @@
+Instancia esta cabecera por favor
+Alumno: Alejandro Arroyo Loaisa [ aal00052 ]
+
+Asignaturas:
+
+Sistemas de Información basados en Web
+Sistemas de Información para el Negocio Electrónico
+Bases de Datos Distribuidas
+Profesores:
+
+Lina Guadalupe García Cabrera - (SIWEB)
+Carlos J. Ogayar Anguita - (SINE)
+Carmen Martínez Cruz - (BBDDD)
+Universidad de Jaén - 2024
+
 ## Ideas Generales 
 
 - El sitio web sería un servicio a gimnasios. Consistiría en ofrecer, en función del equipo y del personal disponible, información relativa a una serie de entrenamientos y rutinas basados en las necesidades de los clientes. En general sería un servicio que los gimnasios podrán ofrecer a sus clientes una vez que estos se han dado de alta en el gimnasio. 
@@ -7,4 +22,6 @@
 - También se podría ofrecer una búsqueda de músculo o grupo muscular. Se podría ver como un catálogo de músculos. Tendríamos pecho o espalda o empuje o jalones o remos o … y si entramos, un listado de ejercicios a los que podríamos acceder y que están relacionados con ese movimiento. 
 
 - Dentro de estos ejercicios, se ve detallada el procedimiento y la técnica y una serie de imágenes que sirvan para guiar al usuario a la correcta realización del ejercicio.
- 
+
+
+ FALTA TODAS las TAREAS de PLANIFICACIÓN
